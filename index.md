@@ -1,6 +1,6 @@
 # Hello World
 
-This is my home page! My name is Dylan Slong and I am a student at [Cal State Fullerton](http://www.fullerton.edu/) and my major is Computer Engineering.
+This is my home page! My name is Dylan Slong and I am a student at [Cal State Fullerton](http://www.fullerton.edu/) and my major is Computer Engineering. I am class of 2027 anda few hobbys of mine include cars, gaming, and creative art.
 
 ## Computer Science Projects
 
