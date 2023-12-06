@@ -1,6 +1,6 @@
 # Hello World
 
-This is my home page! My name is Dylan Slong and I am a student at [Cal State Fullerton](http://www.fullerton.edu/) and my major is Computer Engineering. I am class of 2027 anda few hobbys of mine include cars, gaming, and creative art.
+This is my home page! My name is Dylan Slong and I am a student at [Cal State Fullerton](http://www.fullerton.edu/) and my major is Computer Engineering. I am class of 2027 and a few hobbys of mine include cars, gaming, and creative art.
 
 ## Computer Science Projects
 
@@ -18,4 +18,4 @@ Lab 4, part 1 made us use code to help with conversions from milliliters to teas
 
 **Lab 10** 
 
-Lab 10, part 2 was about combining two different vectors to connect a county in California to its populations. What makes this lab a favorite is how we learned to connect two sets of items using two different vectors rather than doing them individually which consumes a lot more time and energy. I also liked this lab because it was an eye-opener to see how big the state I live in really is.
+Lab 10, part 2 was about combining two different vectors to connect a county in California to its populations. What makes this lab a favorite is how we learned to connect two sets of items using two different vectors rather than doing them individually which consumes a lot more time and energy. I also thoroughly enjoyed this lab because it was an eye-opener to see how big the state I live in really is.
